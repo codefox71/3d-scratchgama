@@ -1,0 +1,5 @@
+{
+    "name": "dcast",
+    "main": "electron-main.js",
+    "version": "4.0.1"
+}
